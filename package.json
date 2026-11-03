@@ -1,0 +1,18 @@
+{
+  "name": "prompt-gallery",
+  "version": "1.0.2",
+  "description": "保存提示词、参数和作品，比较版本并复用创作记录。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "tool"
+  ]
+}
